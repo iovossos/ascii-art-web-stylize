@@ -1,7 +1,7 @@
 # 🎨 ASCII Art Web - Stylize Project 🌐
 
 ## 📖 Description
-Welcome to the **ASCII Art Web - stylize Project**, where creativity meets code! 🚀 This web application allows users to transform plain text into stunning **ASCII art** using banner styles like **Standard**, **Shadow**, and **Thinkertoy**. Built with Go 🐹, this project provides a sleek graphical interface for all your artistic needs. 🌟
+Welcome to the **ASCII Art Web - Stylize Project**, where creativity meets code! 🚀 This web application allows users to transform plain text into stunning **ASCII art** using banner styles like **Standard**, **Shadow**, and **Thinkertoy**. Built with Go 🐹, this project provides a sleek graphical interface for all your artistic needs. 🌟
 
 ---
 
